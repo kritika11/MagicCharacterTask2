@@ -1,0 +1,1 @@
+INSERT INTO magiccharacter(id, color, name, parent_id) VALUES(1, 'Red', 'Warrior', 0);
